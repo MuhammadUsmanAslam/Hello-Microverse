@@ -27,7 +27,7 @@ After you're finished please remove all the comments and instructions!
 
 <div align="center">
   <!-- You are encouraged to replace this logo with your own! Otherwise you can also remove it. -->
-  <img src="murple_logo.png" alt="logo" width="140"  height="auto" />
+  <img src="https://assets-global.website-files.com/5dbb30f00775d4c32191a4df/5e18a9053ee8b2c791075c74_smalllogo.png" alt="logo" width="140"  height="auto" />
   <br/>
 
   <h3><b>Microverse README Template</b></h3>
@@ -205,7 +205,7 @@ Example:
 
 > Mention all of the collaborators of this project.
 
-👤 **Author1**
+👤 **Muhammad Usman Aslam**
 
 - GitHub: [@githubhandle](https://github.com/MuhammadUsmanAslam)
 - Twitter: [@twitterhandle](https://twitter.com/M_Usman_Aslam)
